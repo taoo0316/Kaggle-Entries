@@ -1,1 +1,1 @@
-
+This is my first foray into NLP with the Kaggle competition: Natural Language Processing with Disaster Tweets.
